@@ -26,7 +26,7 @@ Guided students through core programming concepts and problem-solving techniques
 ## Get in touch
 
 Feel free to connect or check out more of my work!
-irilstr@hotmail.com
-[LinkedIn] (https://www.linkedin.com/in/iril-straumbotn-141357328/)
+- irilstr@hotmail.com
+- [LinkedIn] (https://www.linkedin.com/in/iril-straumbotn-141357328/)
 
 
