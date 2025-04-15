@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile!
 
-I'm currently a master's student at NTNU, specializing in software development. I enjoy working on practical projects, learning new technologies, and building tools that are both functional and user-friendly.
+I'm currently a 4th year master's student at NTNU, specializing in software development. I enjoy working on practical projects, learning new technologies, and building tools that are both functional and user-friendly.
 
 ## Work experience
 
